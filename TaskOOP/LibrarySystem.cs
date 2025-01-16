@@ -27,7 +27,7 @@
             }
             else
             {
-                Console.WriteLine($"Item {ItemId} was not checked out.");
+                Console.WriteLine($"Item {ItemId} wasn`t cheacked out.");
             }
         }
     }
